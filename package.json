@@ -1,0 +1,28 @@
+{
+  "name": "gemina.sia",
+  "version": "1.0.0",
+  "description": "Classroom Activities",
+  "keywords": [
+    "sia",
+    "activities",
+    "sy25-26"
+  ],
+  "homepage": "https://github.com/R0nielGemina/activity_sia#readme",
+  "bugs": {
+    "url": "https://github.com/R0nielGemina/activity_sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R0nielGemina/activity_sia.git"
+  },
+  "license": "ISC",
+  "author": "Gemina, Roniel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
